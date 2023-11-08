@@ -1,0 +1,2 @@
+# paper_or_image_show_in_mobile_display
+paper_or_image_show_in_mobile_display
